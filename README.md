@@ -120,8 +120,8 @@ these devices.
     pip install pyyaml
     pip install rospkg
     pip install pexpect
-    pip install mujoco
-    pip install dm_control
+    pip install mujoco==2.3.7
+    pip install dm_control==1.0.14
     pip install opencv-python
     pip install matplotlib
     pip install einops
